@@ -1,5 +1,8 @@
-#Write a program that asks the user for a long string containing multiple words.
-#Print back the same string but with the words in backwords order.
+#Challenge given by https://www.practicepython.org
+#Jordan Jones Apr 16, 2019
+
+#Challenge: Write a program that asks the user for a long string containing multiple words.
+#           Print back the same string but with the words in backwords order.
 def split(s):
     return s.split(" ")
 

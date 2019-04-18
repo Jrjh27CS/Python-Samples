@@ -1,4 +1,7 @@
-#Write a program that prints out all of the elements in given list a less than 5
+#Challenge given by https://www.practicepython.org
+#Jordan Jones Apr 16, 2019
+
+#Challenge: Write a program that prints out all of the elements in given list a less than 5
 a = [1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89]
 for x in a:
     if x < 10:

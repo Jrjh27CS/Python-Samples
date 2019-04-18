@@ -1,4 +1,7 @@
-#Create a program that asks user for a number and then prints out a list of all the divisors of that number.
+#Challenge given by https://www.practicepython.org
+#Jordan Jones Apr 16, 2019
+
+#Challenge: Create a program that asks user for a number and then prints out a list of all the divisors of that number.
 #Ex. User enters 26, the program should return a list of [1,2,13,26]
 num = int(input("User please enter a number:"))
 a = range(1, num + 1)

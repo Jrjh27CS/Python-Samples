@@ -1,3 +1,10 @@
+#Challenge given by https://www.practicepython.org
+#Jordan Jones Apr 16, 2019
+
+#Challenge: Generate a random number between 1 and 9.
+#           Ask the user to guess the number, then tell them whether they guessed too low, too high, or exactly right.
+#Extra 1: Keep the game going until the user types exit
+#Extra 2: Keep track of how many guesses the user has taken, and when the game ends, print out that number
 import random
 num = random.randint(1,9)
 guess = 0

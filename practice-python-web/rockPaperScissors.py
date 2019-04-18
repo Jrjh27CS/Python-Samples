@@ -1,3 +1,7 @@
+#Challenge given by https://www.practicepython.org
+#Jordan Jones Apr 16, 2019
+
+#Challenge: Make a two-player Rock-Paper-Scissors game
 newGame = True
 prompt = "rock, paper, or scissors? >"
 while (newGame):

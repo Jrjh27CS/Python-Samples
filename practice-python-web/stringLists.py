@@ -1,4 +1,7 @@
-#Ask the user for a string and print out whether it's a palindrome or not.
+#Challenge given by https://www.practicepython.org
+#Jordan Jones Apr 16, 2019
+
+#Challenge: Ask the user for a string and print out whether it's a palindrome or not.
 check = input("Please enter a string to check:")
 reverse = []
 [reverse.insert(0,x) for x in check]
